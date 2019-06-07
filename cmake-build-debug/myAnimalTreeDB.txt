@@ -1,0 +1,10 @@
+Q
+Does it fly?
+G
+Bird
+Q
+Does it bark?
+G
+dog
+G
+Lizard

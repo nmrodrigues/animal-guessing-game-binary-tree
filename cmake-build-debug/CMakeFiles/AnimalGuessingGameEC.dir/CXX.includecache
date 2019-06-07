@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nrodrigues/Transfer to GitHub/animal-guessing-game-binary-tree/main.cpp
+iostream
+-
+cctype
+-
+string
+-
+cstdlib
+-
+fstream
+-
+
